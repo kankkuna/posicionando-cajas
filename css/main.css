@@ -1,0 +1,32 @@
+div.block1 {
+  background-color: red;
+  /*margin: 100px;*/
+  /*display: inline-block;*/
+  width: 100px;
+  padding: 100px;
+  position: static;
+/*  margin: 0 auto;
+  padding: inherit;*/
+}
+
+div.block2 {
+  background-color: purple;
+  /*margin: 100px;*/
+  /*display: inline-block;*/
+  /*width: 50px;*/
+  padding: 50px;
+  position: relative;
+  /*  margin: 0 auto;
+  padding: inherit;*/
+}
+
+div.block3 {
+  background-color: yellow;
+  margin-top: 0;
+  /*display: inline-block;*/
+  /*width: 25px;*/
+  padding: 25px;
+  position: absolute;
+  /*  margin: 0 auto;
+  padding: inherit;*/
+}
